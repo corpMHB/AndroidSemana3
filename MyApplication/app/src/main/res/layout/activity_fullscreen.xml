@@ -41,7 +41,8 @@
             android:adjustViewBounds="false"
             android:background="@drawable/marcianito"
             android:cropToPadding="false"
-            android:scaleType="fitXY" />
+            android:scaleType="fitXY"
+            android:layout_alignParentBottom="true" />
 
         <EditText
             android:id="@+id/editText3"
